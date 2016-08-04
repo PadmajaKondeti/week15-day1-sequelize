@@ -14,5 +14,13 @@
     "start": "node server.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PadmajaKondeti/week15-day1-sequelize.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PadmajaKondeti/week15-day1-sequelize/issues"
+  },
+  "homepage": "https://github.com/PadmajaKondeti/week15-day1-sequelize#readme"
 }
